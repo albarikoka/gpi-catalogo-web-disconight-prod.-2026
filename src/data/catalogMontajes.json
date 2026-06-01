@@ -1,0 +1,185 @@
+{
+  "SMART": [
+    {
+      "title": "Essential",
+      "price": "650€",
+      "description": "Lo básico, pero bien hecho. La versión más esencial para tus eventos íntimos",
+      "duration": "6 horas",
+      "djs": "1 DJ",
+      "features": [
+        "6 horas de duración",
+        "1 DJ profesional",
+        "Equipo de sonido",
+        "Iluminación LED",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/essential.webp"
+    },
+    {
+      "title": "Small Stage",
+      "price": "750€",
+      "description": "Montaje funcional y cuidado. Ideal para pequeñas celebraciones con un ambiente concreto",
+      "duration": "6 horas",
+      "djs": "1 DJ",
+      "features": [
+        "6 horas de duración",
+        "1 DJ profesional",
+        "Estructura escénica",
+        "Sistema de sonido mejorado",
+        "Iluminación LED avanzada",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/smallstage.webp"
+    },
+    {
+      "title": "Large",
+      "price": "900€",
+      "description": "Un primer paso en estructura que aporta una mayor presencia y magnitud a tu evento",
+      "duration": "6 horas",
+      "djs": "2 DJs",
+      "features": [
+        "6 horas de duración",
+        "2 DJs profesionales",
+        "Estructura de mayor presencia",
+        "Sistema de sonido potente",
+        "Iluminación profesional",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/large.webp"
+    },
+    {
+      "title": "2 Bridges",
+      "price": "1.200€",
+      "description": "Con dos estructuras, el montaje gana profundidad y el espacio se organiza en diferentes planos",
+      "duration": "6 horas",
+      "djs": "2 DJs",
+      "features": [
+        "6 horas de duración",
+        "2 DJs profesionales",
+        "Dos estructuras bridge",
+        "Montaje en diferentes planos",
+        "Sistema de sonido avanzado",
+        "Iluminación en profundidad",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/2bridges.webp"
+    }
+  ],
+  "PRO": [
+    {
+      "title": "XXL PRO",
+      "price": "1.500€",
+      "description": "La experiencia da un gran salto, integrando efectos y detalles que marcan una diferencia real",
+      "duration": "7 horas",
+      "djs": "3 DJs",
+      "features": [
+        "7 horas de duración",
+        "3 DJs profesionales",
+        "Sistema de sonido profesional",
+        "Iluminación LED avanzada + láser",
+        "Efectos especiales",
+        "Estructura escénica XXL",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/xxlpro.webp"
+    },
+    {
+      "title": "Macro Night Fest",
+      "price": "1.600€",
+      "description": "La puesta en escena se plantea con mentalidad de festival y sitúa al artista como eje del show",
+      "duration": "7 horas",
+      "djs": "3 DJs",
+      "features": [
+        "7 horas de duración",
+        "3 DJs profesionales",
+        "Producción tipo festival",
+        "Sistema de sonido de alto nivel",
+        "Show de luces completo",
+        "Efectos especiales múltiples",
+        "Estructura imponente",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/macronightfest.webp"
+    },
+    {
+      "title": "V-Dimension",
+      "price": "1.800€",
+      "description": "La estructura en V envuelve al público y dirige la escena con una sensación de potencia y control",
+      "duration": "7 horas",
+      "djs": "3 DJs",
+      "features": [
+        "7 horas de duración",
+        "3 DJs profesionales",
+        "Estructura en V envolvente",
+        "Sistema de sonido potente",
+        "Iluminación robótica",
+        "Efectos especiales premium",
+        "Experiencia inmersiva",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/vdimension.webp"
+    },
+    {
+      "title": "Space Cube",
+      "price": "2.000€",
+      "description": "Un cuadrilátero escénico que encierra la acción y multiplica la intensidad de tu evento",
+      "duration": "7 horas",
+      "djs": "3 DJs",
+      "features": [
+        "7 horas de duración",
+        "3 DJs profesionales",
+        "Cuadrilátero escénico completo",
+        "Sistema de sonido line array",
+        "Iluminación 360°",
+        "Efectos especiales completos",
+        "Experiencia envolvente",
+        "Montaje y desmontaje"
+      ],
+      "image": "/servicios/spacecube.webp"
+    }
+  ],
+  "ELITE": [
+    {
+      "title": "Impact Room Show",
+      "price": "2.800€",
+      "description": "Una creación inédita, concebida como homenaje a quienes han caminado junto a nosotros",
+      "duration": "7 horas",
+      "djs": "4 DJs",
+      "features": [
+        "7 horas de duración",
+        "4 DJs profesionales",
+        "Producción de alto impacto",
+        "Sistema de sonido premium",
+        "Iluminación robótica profesional",
+        "Láser RGB de alta potencia",
+        "Efectos especiales pirotécnicos",
+        "Video mapping",
+        "Equipo técnico especializado",
+        "Montaje y desmontaje premium"
+      ],
+      "image": "/servicios/impactroomshow.webp"
+    },
+    {
+      "title": "The Night X-Perience",
+      "price": "3.500€",
+      "description": "Nuestro montaje más grande convertido en una experiencia, sin límites ni concesiones",
+      "duration": "7 horas",
+      "djs": "4 DJs",
+      "features": [
+        "7 horas de duración",
+        "4 DJs profesionales",
+        "Experiencia completa sin límites",
+        "Line array de concierto",
+        "Iluminación robótica de última generación",
+        "Sistema láser multicolor profesional",
+        "Video mapping 360°",
+        "Show pirotécnico completo",
+        "Efectos especiales ilimitados",
+        "Escenografía LED personalizada",
+        "Equipo técnico y producción completa",
+        "Montaje, desmontaje y coordinación"
+      ],
+      "image": "/servicios/thenightxperience.webp"
+    }
+  ]
+}

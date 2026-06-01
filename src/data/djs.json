@@ -1,0 +1,210 @@
+[
+  {
+    "name": "AITOR BELLMUNT",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/aitorbellmunt.webp",
+    "instagram": "https://www.instagram.com/aitorbellmunt/",
+    "topSongs": [
+      {
+        "title": "DROGA",
+        "artist": "Mora, C. Tangana",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/18D0Za12EKUYklBQaJlaDP?si=5a78fb6d7c0c481a",
+        "coverUrl": "/covers/droga.webp"
+      },
+      {
+        "title": "El Teléfono",
+        "artist": "Hector el Father, Wisin y Yandel",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/614NVFo5csQqRnryl4jXs2?si=8f28b988613746c3",
+        "coverUrl": "/covers/eltelefono.webp"
+      },
+      {
+        "title": "Bad Voy",
+        "artist": "GRECAS",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/0WIVpc0hKNxjHkl9xNxw6P?si=5c1b161620a44b84",
+        "coverUrl": "/covers/badvoy.webp"
+      }
+    ]
+  },
+  {
+    "name": "FONDA",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/fonda.webp",
+    "instagram": "https://www.instagram.com/joeltomass._/",
+    "topSongs": [
+      {
+        "title": "Do You Remember",
+        "artist": "Xiyo, Fernandezz, Eix",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/0KO8CsDZhirdPAlxi9oA2M?si=24d8df3a5a6e4231",
+        "coverUrl": "/covers/doyouremember.webp"
+      },
+      {
+        "title": "Xapiadora",
+        "artist": "La Mafia del Amor, Pipo Beatz",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/3Gfs29GWViOqUnHSBq911p?si=39e026cf952245c0",
+        "coverUrl": "/covers/xapiadora.webp"
+      },
+      {
+        "title": "Como enamorarme",
+        "artist": "mvrk",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/16RcB6ae7pNeCQVIrPuytu?si=2f0d2982c29d4bfc",
+        "coverUrl": "/covers/comoenamorarme.webp"
+      }
+    ]
+  },
+  {
+    "name": "ORENGA",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/orenga.webp",
+    "instagram": "https://www.instagram.com/djorenga/",
+    "topSongs": [
+      {
+        "title": "LA SACAPUNTAS",
+        "artist": "Kabasaki, Zeno El Faraón, l0rna, Kristina",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/7mjWqfMjappj2v1Iw3rXeR?si=082b8ca8854046d7",
+        "coverUrl": "/covers/lasacapuntas.webp"
+      },
+      {
+        "title": "Duro Ma",
+        "artist": "Bryant Myers, Dei V, SAIKO",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/5NTdorni110puBoPgWhK58?si=ab963e0be44e4766",
+        "coverUrl": "/covers/duroma.webp"
+      },
+      {
+        "title": "La Plena-W Sound 05",
+        "artist": "W Sound, Beéle, Ovy On The Drums",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/6xOEgzkMSZJKz6qtCJsQL5?si=0a002a4899c94e98",
+        "coverUrl": "/covers/laplena.webp"
+      }
+    ]
+  },
+  {
+    "name": "ORIOL CUBER",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/oriolcuber.webp",
+    "instagram": "https://www.instagram.com/oriolcuber/",
+    "topSongs": [
+      {
+        "title": "NI BORRACHO",
+        "artist": "Quevedo",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/3ltpc2goYCfKT8AbWwqQvc?si=759aefbb6cb84b84",
+        "coverUrl": "/covers/niborracho.webp"
+      },
+      {
+        "title": "JA DORMIRÉ",
+        "artist": "La Fúmiga, Figa Flawas",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/6v3cZ9bz8neNaUxsIKxfct?si=5969f82e6c444a38",
+        "coverUrl": "/covers/jadormire.webp"
+      },
+      {
+        "title": "Dardos",
+        "artist": "Romeo Santos, Prince Royce",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/5SudOD9R1Of6CsJVWZy6CQ?si=cbd7e7e6bf524c58",
+        "coverUrl": "/covers/dardos.webp"
+      }
+    ]
+  },
+  {
+    "name": "ÓSCAR NADAL",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/oscarnadal.webp",
+    "instagram": "https://www.instagram.com/oscarnadal_/",
+    "topSongs": [
+      {
+        "title": "SUPERESTRELLA",
+        "artist": "Aitana",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/6hpuesKPNa3WhV48O7Fa47?si=49695dcec65140ef",
+        "coverUrl": "/covers/superestrella.webp"
+      },
+      {
+        "title": "capaz (merengueton)",
+        "artist": "Alleh, Yorghaki",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/2dd3G3ZqEcG2cNS1tp3oEk?si=8dfa62d54e084c11",
+        "coverUrl": "/covers/capaz.webp"
+      },
+      {
+        "title": "MÍA",
+        "artist": "Bad Bunny, Drake",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/3Ueq2zboxwAbsvHrOjdEqz?si=8c87ec615f9f4244",
+        "coverUrl": "/covers/mia.webp"
+      }
+    ]
+  },
+  {
+    "name": "TORO",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/toro.webp",
+    "instagram": "https://www.instagram.com/angelmarza_/",
+    "topSongs": [
+      {
+        "title": "Ella No Sigue Modas",
+        "artist": "Juan Magán, Don Omar",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/0x6UyfOikAQ7GpiGaYaPey?si=6a52feb7a6284096",
+        "coverUrl": "/covers/ellanosiguemodas.webp"
+      },
+      {
+        "title": "Me Embrujaste",
+        "artist": "Aldo Ranks",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/47fUTmUGoXeZmpbF5l0b7b?si=6bdd4fb37f264bd9",
+        "coverUrl": "/covers/meembrujaste.webp"
+      },
+      {
+        "title": "No Me Conoce-Remix",
+        "artist": "JHAYCO, J Balvin, Bad Bunny",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/2beS6dD5rovBxSA1zYoSHR?si=2ffa546c76354614",
+        "coverUrl": "/covers/nomeconoce.webp"
+      }
+    ]
+  },
+  {
+    "name": "ALBA DJ",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/albadj.webp",
+    "instagram": "https://www.instagram.com/__alba_06/",
+    "topSongs": [
+      {
+        "title": "Sending My Love (Hardstyle)",
+        "artist": "WetNLoud",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/2fwh5nAv8JvTsvoCPoe80a?si=aac5ee4acc4e497f",
+        "coverUrl": "/covers/sendingmylove.webp"
+      },
+      {
+        "title": "Poem Without Words",
+        "artist": "United Records",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/3JNM5eYSLMp9yApQIGpqS8?si=6e002fe20ac94257",
+        "coverUrl": "/covers/poemwithoutwords.webp"
+      },
+      {
+        "title": "Nobody Said It Was Easy",
+        "artist": "Evil Activities",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/6AjtpMqRKKJl1uVURKY6DJ?si=11243cabcdeb4f6e",
+        "coverUrl": "/covers/nobodysaiditwaseasy.webp"
+      }
+    ]
+  },
+  {
+    "name": "LEO NEAGU",
+    "role": "DJ Team DiscoNight",
+    "image": "/djs/leoneagu.webp",
+    "instagram": "https://www.instagram.com/leoo_ng21/",
+    "topSongs": [
+      {
+        "title": "NUEVAYoL",
+        "artist": "Bad Bunny",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/5TFD2bmFKGhoCRbX61nXY5?si=a529d86501ca43dc",
+        "coverUrl": "/covers/nuevayol.webp"
+      },
+      {
+        "title": "Muchoperro",
+        "artist": "Juseph, Cruz Cafuné, Wiso Rivera",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/0duM6rfxvpnpAALDHFmTFS?si=d00bd44af89f4226",
+        "coverUrl": "/covers/muchoperro.webp"
+      },
+      {
+        "title": "Ba Ba Bad Remix",
+        "artist": "Kybba, Sean Paul, Ryan Castro, Busy Signal",
+        "spotifyUrl": "https://open.spotify.com/intl-es/track/2RnCVOUcOaPeTlFRW3NHQJ?si=d11b2a173f39447f",
+        "coverUrl": "/covers/bababad.webp"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInUpSm {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes bounceY {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(10px); }
+}
+.anim-fade-in-up { animation: fadeInUp 1s ease both; }
+.anim-fade-in-up-sm { animation: fadeInUpSm 1s ease both; }
+.anim-delay-1 { animation-delay: 0.2s; }
+.anim-delay-2 { animation-delay: 0.5s; }
+.anim-delay-3 { animation-delay: 0.7s; }
+.anim-bounce-y { animation: bounceY 1.5s ease-in-out infinite; }
